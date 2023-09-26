@@ -1,7 +1,6 @@
+import Category from "../components/Category";
 import Pop from "../components/Pop";
-import pop from "../components/Pop";
 import Veggie from "../components/Veggie";
-import veggie from "../components/Veggie";
 
 
 import React from 'react'
