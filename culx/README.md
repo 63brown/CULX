@@ -1,70 +1,47 @@
-# Getting Started with Create React App
+# CULX
+![Meme](https://imgur.com/a/CqcWRry)
+<br>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Table of Contents
+- [Installation](#installation)
+- [Usage](#usage)
+- [Website Features](#website-features)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact Information](#contact-information)
 
-## Available Scripts
+## Installation
+culx requires no installation, access the website here:
 
-In the project directory, you can run:
+## Usage
+Visit the website here: https://culx-4b305.web.app
 
-### `npm start`
+## Website Features
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+1. **To search for recipes:**
+   - Navigate to the search bar and type your desired recipe.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+2. **Allows access desired recipe:**
+Click on your desired recipe. There you'll be able to access ingredients and instruction
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Contributing
 
-### `npm run build`
+This project was developed using the following technologies:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- **React:** an open-source JavaScript library designed by Facebook, used for building user interfaces or UI components. [Learn more](https://react.dev/)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- **HTML:** The standard markup language for creating the structure and content of web pages. [Learn more](https://developer.mozilla.org/en-US/docs/Web/HTML)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- **CSS:** A stylesheet language used for describing the presentation of a document written in HTML. [Learn more](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
-### `npm run eject`
+- **JavaScript:** A programming language that enables dynamic and interactive behavior on web pages. [Learn more](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## License
+CULX is currently not licensed.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Contact Information
+For any inquiries or feedback regarding CULX, you can reach out to Purity Muthee using the following contact information:
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+GitHub: [puritymuthee-code](https://github.com/63brown/) 
+LinkedIn: [Purity Muthee](https://www.linkedin.com/in//)

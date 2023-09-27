@@ -96,7 +96,7 @@ const Wrapper = styled.div`
 
 
 const Gradient = styled.div`
-  z-index: 3;
+  z-index: 1;
   position: absolute;
   width: 100%;
   height: 100%;
