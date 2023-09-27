@@ -1,16 +1,13 @@
-import Category from "../components/Category";
 import Pop from "../components/Pop";
 import Veggie from "../components/Veggie";
-
-
-import React from 'react'
+import { motion } from "framer-motion";
 
 function Home() {
   return (
-    <div>
+    <motion.div>
       <Pop />
       <Veggie />
-    </div>
+    </motion.div>
   )
 }
 
